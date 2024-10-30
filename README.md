@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **xindl0423@gmail.com**
 
-- 😄 Pronouns: He/him [He/Him](He/Him)
+- 😄 Pronouns: He/him [He/Him]
 
 - ⚡ Fun fact **I prefer C over C++ at times**
 
