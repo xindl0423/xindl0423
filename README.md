@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xindong Lin</h1>
-- 🔭 I’m currently working on **CCNP**
-
-- 🌱 I’m currently learning **Java/Ansible**
-
-- 👯 I’m looking to collaborate on **anything**
-
-- 👀 I’m interested in anything **programming**
+- 🔭 I’m currently working on my**CCNP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xindl0423](https://github.com/xindl0423)
-
-- 💬 Ask me about **C**
 
 - 📫 How to reach me **xindl0423@gmail.com**
 
